@@ -2,3 +2,4 @@ resource/**
 .idea/**
 out/**
 .class
+**/.idea/
